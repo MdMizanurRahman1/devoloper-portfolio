@@ -47,7 +47,8 @@ h2 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    padding-right: 0;
+    padding-right: 160px;
+
 }
 
 .experience-item {
@@ -75,8 +76,17 @@ h2 {
 
 #baby-web-developer {
     border-left: 7px solid blue;
+
 }
 
 footer p {
     text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+#experience {
+    margin-left: 62px;
 }
